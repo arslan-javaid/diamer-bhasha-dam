@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.12)  3 DEC 2018 11:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.12)  3 DEC 2018 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -486,46 +486,40 @@ File: images/gdpa-imf.png Graphic file (type png)
 <use images/gdpa-imf.png>
 Package pdftex.def Info: images/gdpa-imf.png  used on input line 242.
 (pdftex.def)             Requested size: 252.94499pt x 147.70798pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-
- []
-
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <11.04124> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 251.
 <images/descriptive-statistics.png, id=33, 675.52374pt x 217.81375pt>
 File: images/descriptive-statistics.png Graphic file (type png)
 <use images/descriptive-statistics.png>
 Package pdftex.def Info: images/descriptive-statistics.png  used on input line 
-256.
+253.
 (pdftex.def)             Requested size: 252.94499pt x 81.55698pt.
 <images/correlations.png, id=34, 739.76375pt x 469.755pt>
 File: images/correlations.png Graphic file (type png)
 <use images/correlations.png>
-Package pdftex.def Info: images/correlations.png  used on input line 260.
+Package pdftex.def Info: images/correlations.png  used on input line 257.
 (pdftex.def)             Requested size: 252.94499pt x 160.61774pt.
 <images/model-summary.png, id=35, 620.3175pt x 217.81375pt>
 File: images/model-summary.png Graphic file (type png)
 <use images/model-summary.png>
-Package pdftex.def Info: images/model-summary.png  used on input line 264.
+Package pdftex.def Info: images/model-summary.png  used on input line 261.
 (pdftex.def)             Requested size: 252.94499pt x 88.81564pt.
 <images/anova.png, id=36, 892.33376pt x 270.00874pt>
 File: images/anova.png Graphic file (type png)
 <use images/anova.png>
-Package pdftex.def Info: images/anova.png  used on input line 268.
+Package pdftex.def Info: images/anova.png  used on input line 265.
 (pdftex.def)             Requested size: 252.94499pt x 76.53716pt.
 <images/observed-cum-prob.png, id=37, 908.39375pt x 753.81625pt>
 File: images/observed-cum-prob.png Graphic file (type png)
 <use images/observed-cum-prob.png>
-Package pdftex.def Info: images/observed-cum-prob.png  used on input line 272.
+Package pdftex.def Info: images/observed-cum-prob.png  used on input line 269.
 (pdftex.def)             Requested size: 252.94499pt x 209.89388pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <images/histogram.png, id=38, 915.42pt x 755.82375pt>
 File: images/histogram.png Graphic file (type png)
 <use images/histogram.png>
-Package pdftex.def Info: images/histogram.png  used on input line 276.
+Package pdftex.def Info: images/histogram.png  used on input line 273.
 (pdftex.def)             Requested size: 252.94499pt x 208.83823pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -533,54 +527,44 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/scatterplot.png, id=39, 915.42pt x 675.52374pt>
 File: images/scatterplot.png Graphic file (type png)
 <use images/scatterplot.png>
-Package pdftex.def Info: images/scatterplot.png  used on input line 280.
+Package pdftex.def Info: images/scatterplot.png  used on input line 277.
 (pdftex.def)             Requested size: 252.94499pt x 186.65091pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/fund-status.jpeg, id=40, 559.08875pt x 356.33125pt>
-File: images/fund-status.jpeg Graphic file (type jpg)
-<use images/fund-status.jpeg>
-Package pdftex.def Info: images/fund-status.jpeg  used on input line 287.
-(pdftex.def)             Requested size: 252.94499pt x 161.21208pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [7 <./images/pak-vs-asia.png> <./images/predicted-gdpa.png> <./images/gdpa-imf.
 png> <./images/descriptive-statistics.png> <./images/correlations.png> <./image
-s/model-summary.png> <./images/anova.png>] [8 <./images/observed-cum-prob.png> 
-<./images/histogram.png> <./images/scatterplot.png> <./images/fund-status.jpeg>
-]
-Underfull \hbox (badness 10000) in paragraph at lines 302--306
+s/model-summary.png> <./images/anova.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 294--298
 
  []
 
-[9
+[8 <./images/observed-cum-prob.png> <./images/histogram.png> <./images/scatterp
+lot.png>] [9
 
 ] (./diamer-bhasha-dam.bbl) [10
 
 
 ] (./diamer-bhasha-dam.aux) ) 
 Here is how much of TeX's memory you used:
- 4826 strings out of 492649
- 78615 string characters out of 6129621
+ 4817 strings out of 492649
+ 78433 string characters out of 6129621
  262352 words of memory out of 5000000
- 8626 multiletter control sequences out of 15000+600000
- 44159 words of font info for 92 fonts, out of 8000000 for 9000
+ 8620 multiletter control sequences out of 15000+600000
+ 42273 words of font info for 90 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  41i,8n,39p,2009b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvip
 s/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
 .pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on diamer-bhasha-dam.pdf (10 pages, 4206318 bytes).
+usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on diamer-bhasha-dam.pdf (10 pages, 4183267 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
